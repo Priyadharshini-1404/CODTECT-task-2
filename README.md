@@ -30,3 +30,5 @@ Result Display: Show the final score to the user after all questions have been a
  Technologies Used:
  Programming Language: 
    - C: Utilized for the entire program, leveraging its standard libraries (stdio.h, stdlib.h).
+
+   - https://github.com/Priyadharshini-1404/CODTECT-task-2/issues/1#issue-2403727676
